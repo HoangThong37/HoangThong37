@@ -36,18 +36,18 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span> -->
+<span><img src="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162" alt="git lap" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<h2 align="center">📖 Đang update 📖</h2>
-<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp; -->
 
+<span><img src="https://camo.githubusercontent.com/fe017e863574a253b32b43c18a9c5700c7b9946fe76585345148c658cb8d090d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="Firebase logo" title="vs code" height="25" /></span>
+&nbsp;
+<span><img src="https://camo.githubusercontent.com/df939dcd7aba246a40daab2e0aeea29e96864ded0c6ab6f5ca955c44707c966a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d666666666666" alt="WordPress logo" title="intelij" height="25" /></span>
+&nbsp;
+<h2 align="center">📖 Đang update 📖</h2>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
