@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Electronics and Telecommunications at Academy of Cryptogaphy Techniques (ACT).
-- 💼 &nbsp; Working as a Software Engineer at Moonlab.
+- 💼 &nbsp; Working as a Fresher Back-end at Moonlab.
 - 🌱 &nbsp; Learning more about Web Development and Blockchain.
 - ✍️ &nbsp; Pursuing Back-end Developer as a job, a passion.
 
@@ -20,8 +20,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=green)
+  ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=JSON%20web%20tokens)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
   <!-- ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=FFFFFF)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -34,11 +34,11 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-Intelliji%20Idea-333333?style=flat&logo=intellij-idea&logoColor=blue)
 <!-- - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
