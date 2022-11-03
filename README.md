@@ -13,7 +13,7 @@
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=blue)
   <!-- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
