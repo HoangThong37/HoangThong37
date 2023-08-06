@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Electronics and Telecommunications at Academy of Cryptogaphy Techniques (ACT).
-- 💼 &nbsp; Working as a Fresher Back-end at Moonlab.
+- 💼 &nbsp; Working as a Back-end Developer at One Mount.
 - 🌱 &nbsp; Learning more about Web Development and Blockchain.
 - ✍️ &nbsp; Pursuing Back-end Developer as a job, a passion.
 
