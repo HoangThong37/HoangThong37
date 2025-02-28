@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Electronics and Telecommunications at Academy of Cryptogaphy Techniques (ACT).
-- 💼 &nbsp; Working as a Back-end Developer at One Mount.
-- 🌱 &nbsp; Learning more about Web Development and Blockchain.
+- 🎓 &nbsp; I graduated an engineer from the Academy of Cryptography Techniques (ACT).
+- 💼 &nbsp; Working current a Back-end Developer at LG CNS.
+- 🌱 &nbsp; Learning more about Devops.
 - ✍️ &nbsp; Pursuing Back-end Developer as a job, a passion.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
